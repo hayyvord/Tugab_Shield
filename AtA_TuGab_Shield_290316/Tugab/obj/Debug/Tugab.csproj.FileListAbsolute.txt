@@ -1,0 +1,4 @@
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\Tugab\bin\Debug\Tugab.dll
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\Tugab\bin\Debug\Tugab.pdb
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\Tugab\obj\Debug\Tugab.dll
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\Tugab\obj\Debug\Tugab.pdb

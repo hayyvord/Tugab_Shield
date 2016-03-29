@@ -1,0 +1,11 @@
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\bin\Debug\AtA_TuGab_Shield_290316.exe.config
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\bin\Debug\AtA_TuGab_Shield_290316.exe
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\bin\Debug\AtA_TuGab_Shield_290316.pdb
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\obj\Debug\AtA_TuGab_Shield_290316.csprojResolveAssemblyReference.cache
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\obj\Debug\AtA_TuGab_Shield_290316.Properties.Resources.resources
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\obj\Debug\AtA_TuGab_Shield_290316.csproj.GenerateResource.Cache
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\obj\Debug\AtA_TuGab_Shield_290316.exe
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\obj\Debug\AtA_TuGab_Shield_290316.pdb
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\obj\Debug\AtA_TuGab_Shield_290316.MainForm.resources
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\bin\Debug\Tugab.dll
+c:\users\александър\documents\visual studio 2013\Projects\AtA_TuGab_Shield_290316\AtA_TuGab_Shield_290316\bin\Debug\Tugab.pdb
